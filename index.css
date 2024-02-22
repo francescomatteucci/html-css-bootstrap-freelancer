@@ -1,13 +1,15 @@
 /* UTILITIES */
 
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     box-sizing: border-box;
+    border:none;
 }
 
 img {
-    max-width: 400px;
+    max-width:100%;
+    
 }
 
 a {
@@ -39,5 +41,19 @@ body {
 .bg-green{
     background-color: rgb(26, 188, 156);
 }
+
+.containe{
+    border:2px solid black;
+}
+
+.ro{
+    border:2px solid black;
+}
+
+.co{
+    border:2px solid black;
+}
+
+
 
 /* LAYOUT */
