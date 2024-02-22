@@ -1,0 +1,43 @@
+/* UTILITIES */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 400px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+menu,
+ul,
+ol {
+    list-style: none;
+    margin:0px;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    
+}
+
+.bg-darkblue{
+    background-color: rgb(44, 62, 80);
+}
+
+.bg-green{
+    background-color: rgb(26, 188, 156);
+}
+
+/* LAYOUT */
