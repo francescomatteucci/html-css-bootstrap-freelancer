@@ -45,6 +45,10 @@ body {
 .containe{
     border:2px solid black;
 }
+.container-s{
+    border:2px solid black;
+}
+
 
 .ro{
     border:2px solid black;
@@ -57,3 +61,11 @@ body {
 
 
 /* LAYOUT */
+
+.about .container p{
+    column-count: 2;
+}
+
+textarea{
+    width:100%;
+}
